@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ppp",
+    "ppp",
+    "ppp"
+  ],
+
+
+  "key": {
+    "p": {
+      "item": "wmm:melon_pulp"
+    }
+  },
+
+  "result": {
+    "item": "wmm:melon_pulp_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "gwm",
+    "bbb"
+  ],
+
+
+  "key": {
+    "w": {
+      "item": "minecraft:wheat"
+    },
+
+    "g": {
+        "item": "minecraft:gunpowder"
+      },
+
+    "b": {
+        "item": "wmm:banana"
+      },
+
+    "m": {
+        "item": "minecraft:milk_bucket"
+    }
+  },
+
+
+  "result": {
+    "item": "wmm:creepers_pancake",
+    "count": 1
+  }
+}

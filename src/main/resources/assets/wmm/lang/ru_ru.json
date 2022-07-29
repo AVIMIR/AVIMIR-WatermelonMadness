@@ -1,0 +1,47 @@
+{
+  "item.wmm.banana": "Банан",
+  "item.wmm.creepers_pancake": "Блинпер",
+  "item.wmm.melon_pulp": "Арбузная мякоть",
+
+
+
+
+
+  "item.wmm.melon_stick": "Арзбузная палка",
+  "item.wmm.melon_crust": "Арбузная кожура",
+
+
+
+  "item.wmm.melon_helmet": "Арбузная шапка",
+  "item.wmm.melon_chestplate": "Арбузная куртка",
+  "item.wmm.melon_leggings": "Арбузные штаны",
+  "item.wmm.melon_boots": "Арбузные ботинки",
+
+
+
+  "item.wmm.knife": "Нож",
+  "item.wmm.melon_shovel": "Арбузная лопата",
+  "item.wmm.melon_pickaxe": "Арбузная кирка",
+  "item.wmm.melon_axe": "Арбуный топор",
+  "item.wmm.melon_sword": "Арбузный меч",
+  "item.wmm.melon_hoe": "Арбузная мотыга",
+
+
+
+
+  "block.wmm.banana_block": "Кисть бананов",
+  "block.wmm.melon_pulp_block": "Блок мякоти арзбуза",
+  "block.wmm.palm_log": "Пальмовая древесина",
+  "block.wmm.palm_wood": "Пальмовая кора",
+  "block.wmm.stripped_palm_log": "Обтесанная пальмовая древесина",
+  "block.wmm.stripped_palm_wood": "Обтесанная пальмовая кора",
+  "block.wmm.palm_planks": "Пальмовые доски",
+  "block.wmm.palm_door": "Пальмовая дверь",
+  "block.wmm.palm_leaves": "Пальмовая листва",
+  "block.wmm.palm_sapling": "Пальмовый саженец",
+
+  "itemGroup.wmmitems": "Арбузное безумие: предметы",
+  "itemGroup.wmmfood": "Арбузное безумие: пища",
+  "itemGroup.wmmblocks": "Арбузное безумие: блоки",
+  "itemGroup.wmmtools": "Арбузное безумие: инструменты"
+}

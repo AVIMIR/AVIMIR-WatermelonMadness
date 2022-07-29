@@ -1,0 +1,49 @@
+{
+  "item.wmm.banana": "Banana",
+  "item.wmm.creepers_pancake": "Creeper pancake",
+  "item.wmm.melon_pulp": "Melon pulp",
+
+
+
+
+
+  "item.wmm.melon_stick": "Melon stick",
+  "item.wmm.melon_crust": "Melon crust",
+
+
+
+  "item.wmm.melon_helmet": "Melon helmet",
+  "item.wmm.melon_chestplate": "Melon chest",
+  "item.wmm.melon_leggings": "Melon leggings",
+  "item.wmm.melon_boots": "Melon boots",
+
+
+
+  "item.wmm.knife": "Knife",
+  "item.wmm.melon_shovel": "Melon shovel",
+  "item.wmm.melon_pickaxe": "Melon pickaxe",
+  "item.wmm.melon_axe": "Melon axe",
+  "item.wmm.melon_sword": "Melon sword",
+  "item.wmm.melon_hoe": "Melon hoe",
+
+
+
+
+  "block.wmm.banana_block": "Bunch of bananas",
+  "block.wmm.melon_pulp_block": "Melon pulp block",
+  "block.wmm.palm_log": "Palm log",
+  "block.wmm.palm_wood": "Palm wood",
+  "block.wmm.stripped_palm_log": "Stripped palm log",
+  "block.wmm.stripped_palm_wood": "Stripped palm wood",
+  "block.wmm.palm_planks": "Palm planks",
+  "block.wmm.palm_door": "Palm door",
+  "block.wmm.palm_leaves": "Palm leaves",
+  "block.wmm.palm_sapling": "Palm sapling",
+
+
+
+  "itemGroup.wmmitems": "Watermelon Madness: items",
+  "itemGroup.wmmfood": "Watermelon Madness: food",
+  "itemGroup.wmmblocks": "Watermelon Madness: blocks",
+  "itemGroup.wmmtools": "Watermelon Madness: tools"
+}

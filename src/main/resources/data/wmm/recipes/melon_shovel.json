@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "p",
+    "s",
+    "s"
+  ],
+
+
+  "key": {
+    "p": {
+      "item": "wmm:melon_pulp"
+    },
+    "s": {
+      "item": "wmm:melon_stick"
+    }
+  },
+
+  "result": {
+    "item": "wmm:melon_shovel",
+    "count": 1
+  }
+}

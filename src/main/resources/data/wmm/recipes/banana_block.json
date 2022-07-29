@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bbb",
+    "bbb",
+    "bbb"
+  ],
+
+
+  "key": {
+    "b": {
+      "item": "wmm:banana"
+    }
+  },
+
+  "result": {
+    "item": "wmm:banana_block",
+    "count": 1
+  }
+}

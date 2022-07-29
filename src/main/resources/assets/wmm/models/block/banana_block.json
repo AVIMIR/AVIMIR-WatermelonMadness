@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "wmm:blocks/banana_block_top",
+    "side": "wmm:blocks/banana_block_side",
+    "bottom": "wmm:blocks/banana_block_bottom"
+  }
+}

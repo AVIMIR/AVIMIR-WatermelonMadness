@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "p",
+    "p"
+  ],
+
+
+  "key": {
+    "p": {
+      "item": "wmm:palm_planks"
+    }
+  },
+
+  "result": {
+    "item": "minecraft:stick",
+    "count": 4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ccc",
+    "c c"
+  ],
+
+
+  "key": {
+    "c": {
+      "item": "wmm:melon_crust"
+    }
+  },
+
+  "result": {
+    "item": "wmm:melon_helmet",
+    "count": 1
+  }
+}

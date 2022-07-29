@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "c",
+    "c"
+  ],
+
+
+  "key": {
+    "c": {
+      "item": "wmm:crust"
+    }
+  },
+
+  "result": {
+    "item": "wmm:melon_stick",
+    "count": 1
+  }
+}

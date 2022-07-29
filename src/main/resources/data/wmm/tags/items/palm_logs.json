@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "wmm:palm_log",
+    "wmm:palm_wood",
+    "wmm:stripped_palm_log",
+    "wmm:stripped_palm_wood"
+  ]
+}
